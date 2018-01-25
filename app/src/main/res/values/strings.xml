@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">View Pager Indicator</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="list_colors">
+        <item>#4ea961</item>
+        <item>#7bf4e4</item>
+        <item>#6573d9</item>
+        <item>#8e56ac</item>
+    </string-array>
+</resources>
