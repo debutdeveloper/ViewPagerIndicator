@@ -20,12 +20,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="60dp"
+        app:deselectedColor="@color/colorPrimary"
+        app:indicatorSpacing="5dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:selectedDrawable="@drawable/indicator_drawable_selected"
-        app:deselectedDrawable="@drawable/indicator_drawable_unselected"
         app:pageCount="4"
-        app:indicatorSpacing="5dp"
+        app:selectedColor="@color/colorAccent"
         />
 </android.support.constraint.ConstraintLayout>
