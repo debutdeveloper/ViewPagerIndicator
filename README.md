@@ -47,8 +47,8 @@ First add kotlin support in your project.
                 
                 
                 
-         In your activity /fragment
+         In your activity/fragment
          
          indicator.setpager(ViewPager)
                 
-             ```   
+         ```   
