@@ -33,7 +33,7 @@ First add kotlin support in your project.
 # USAGE
 
 
-        ```
+```
         <com.debutinfotech.indicator.ViewPagerIndicator
                 android:id="@+id/indicator"
                 android:layout_width="wrap_content"
@@ -44,11 +44,13 @@ First add kotlin support in your project.
                 app:pageCount="4"
                 app:indicatorSpacing="5dp"
                 />
+```
                 
                 
                 
-         In your activity/fragment
+In your activity/fragment
+```
          
          indicator.setpager(ViewPager)
                 
-         ```   
+```   
